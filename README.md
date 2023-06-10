@@ -11,4 +11,17 @@ yarn
 yarn dev
 ```
 
+## Done
+- map class
+- snake class
+- basic styles
+- controls class
+
+## To do
+- lives mechanic
+- map limits
+- apple mechanic
+- better styles
+- gui menu
+- snake growing mechanic
 
